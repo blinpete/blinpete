@@ -1,7 +1,7 @@
 # Hi there, I'm Peter
 
-![Visits Badge](https://badges.pufler.dev/visits/blinpete/blinpete)
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@blinpete-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8&link=https://www.linkedin.com/in/blinpete/)
+[![Visits Badge](https://badges.pufler.dev/visits/blinpete/blinpete)](https://github.com/blinpete)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@blinpete-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/blinpete/)
 
 
 #### My Tools
