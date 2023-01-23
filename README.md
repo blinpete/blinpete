@@ -1,14 +1,10 @@
-# Hi there, I'm Peter
+<!-- linkedin 0a66c2 -->
+<!-- twitter 1d9bf0 -->
+<!-- reddit FF4500 -->
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-@blinpete-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/blinpete/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-eee?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/blinpete/)
+[![](https://img.shields.io/badge/Twitter-eee?style=flat-square&logo=twitter)](https://twitter.com/peter_blinov)
+[![](https://img.shields.io/badge/Reddit-eee?style=flat-square&logo=reddit)](https://www.reddit.com/user/blinpete)
 
-
-#### My Tools
-
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&color=555)
-![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=fff&color=3178C6)
-
-![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=1572B6&color=eee)
-![](https://img.shields.io/badge/-Sass-informational?style=flat&logo=Sass&logoColor=CC6699&color=eee)
-![](https://img.shields.io/badge/-PostCSS-informational?style=flat&logo=postcss&logoColor=DD3A0A&color=eee)
+Frontend engineer | open source enthusiast | math lover | open-minded thinker | guitar player | creator of [*WikiGraph*](https://blinpete.github.io/wiki-graph)
 
