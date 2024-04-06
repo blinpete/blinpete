@@ -8,4 +8,4 @@
 [![](https://img.shields.io/badge/Reddit-eee?style=flat&logo=reddit)](https://www.reddit.com/user/blinpete)
 
 
-Frontend engineer | open source enthusiast | math lover | open-minded thinker | guitar player | creator of [*WikiGraph*](https://blinpete.github.io/wiki-graph)
+Frontend engineer | open source enthusiast | math lover | open-minded thinker | guitar player | creator of [*WikiGraph*](https://blinpete.github.io/wiki-graph/?lang=en&query=Erwin%20Schrödinger)
